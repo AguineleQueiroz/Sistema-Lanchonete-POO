@@ -1,0 +1,136 @@
+{
+  "cargo": "Funcionario",
+  "salario": 2000.0,
+  "senha_usuario": "123456",
+  "nome": "Aguinele Queiroz",
+  "telefone": "38 9 98427814",
+  "endereco": "Rua das Almas - 1000",
+  "cpf": "25487936901"
+}
+,{
+  "cargo": "Administrador",
+  "salario": 2500.0,
+  "senha_usuario": "abc254s",
+  "nome": "Cassia Pires",
+  "telefone": "38 9 98667888",
+  "endereco": "Rua da Saudade - 75",
+  "cpf": "12345678901"
+}
+,{
+  "cargo": "Funcionario",
+  "salario": 2000.0,
+  "senha_usuario": "a73hgsa1",
+  "nome": "João das Neves",
+  "telefone": "38 9 88659825",
+  "endereco": "Avenida 1º de Maio - 154",
+  "cpf": "10785274101"
+}
+,{
+  "cargo": "Funcionario",
+  "salario": 2000.0,
+  "senha_usuario": "123456",
+  "nome": "Luana Oliveira",
+  "telefone": "38 9 88757847",
+  "endereco": "Avenida Silvio Santos - 50",
+  "cpf": "10278945601"
+}
+,{
+  "cargo": "Funcionario",
+  "salario": 2000.0,
+  "senha_usuario": "absc47x5",
+  "nome": "Paulo Lima",
+  "telefone": "38 9 94965899",
+  "endereco": "Rua Tres Marias - 203",
+  "cpf": "16545678901"
+}
+,{
+  "cargo": "Funcionario",
+  "salario": 2000.0,
+  "senha_usuario": "123456",
+  "nome": "Geovane dos Santos",
+  "telefone": "38 9 78945621",
+  "endereco": "Rua 9 de maio - 1510",
+  "cpf": "12345675201"
+}
+,{
+  "cargo": "Funcionario",
+  "salario": 2000.0,
+  "senha_usuario": "abc254s",
+  "nome": "Brenda Silva",
+  "telefone": "38 9 12336544",
+  "endereco": "Rua da Saude - 7545",
+  "cpf": "25487975301"
+}
+,{
+  "cargo": "Funcionario",
+  "salario": 2000.0,
+  "senha_usuario": "a73hgsa1",
+  "nome": "Jonathan Orlando",
+  "telefone": "38 9 11112222",
+  "endereco": "Avenida sem fim - 154",
+  "cpf": "10785225401"
+}
+,{
+  "cargo": "Funcionario",
+  "salario": 2000.0,
+  "senha_usuario": "123456",
+  "nome": "Juliana Silveira",
+  "telefone": "38 9 22223333",
+  "endereco": "Rua 4 de paus - 57",
+  "cpf": "10278935901"
+}
+,{
+  "cargo": "Funcionario",
+  "salario": 2000.0,
+  "senha_usuario": "absc47x5",
+  "nome": "Douglas Lima",
+  "telefone": "38 9 55554545",
+  "endereco": "Rua Tres de ouro - 23",
+  "cpf": "15745678901"
+}
+,{
+  "cargo": "Funcionario",
+  "salario": 2000.0,
+  "senha_usuario": "absc47x5",
+  "nome": "Samuel Alexandre",
+  "telefone": "38 9 78789898",
+  "endereco": "Rua Tres de ouro - 851",
+  "cpf": "35915775901"
+}
+,{
+  "cargo": "Funcionario",
+  "salario": 2000.0,
+  "senha_usuario": "123456",
+  "nome": "Julia Pereira",
+  "telefone": "38 9 42624868",
+  "endereco": "Rua januaria pereira - 426",
+  "cpf": "10278935901"
+}
+,{
+  "cargo": "Funcionario",
+  "salario": 2000.0,
+  "senha_usuario": "absc47x5",
+  "nome": "Sarah Fernandes",
+  "telefone": "38 9 35958626",
+  "endereco": "Rua De baixo - 4232",
+  "cpf": "15752575901"
+}
+,{
+  "cargo": "Funcionario",
+  "salario": 2000.0,
+  "senha_usuario": "absc47x5",
+  "nome": "Alexandre Junior",
+  "telefone": "38 9 19989819",
+  "endereco": "Rua Tres de espadas - 7",
+  "cpf": "68275001401"
+}
+,{
+  "cargo": "Funcionario",
+  "salario": 2000.0,
+  "senha_usuario": "absc47x5",
+  "nome": "David Ferreira",
+  "telefone": "38 9 46654598",
+  "endereco": "Rua Copacabana - 42",
+  "cpf": "28317845601"
+}
+,

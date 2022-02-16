@@ -1,0 +1,36 @@
+{
+  "ultimos_pedidos": "X- burguer, Refrigerante 2L, Sanduiche de Pernil",
+  "nome": "Aguinele queiroz",
+  "telefone": "38 9 98427814",
+  "endereco": "Rua das Almas - 789",
+  "cpf": "12345678901"
+}
+,{
+  "ultimos_pedidos": "Sanduiche Vegano, Refrigerante de Limao 1.5L",
+  "nome": "Cassia Pires ",
+  "telefone": "38 9 98456514",
+  "endereco": "Rua das Ostras - 741",
+  "cpf": "14785236901"
+}
+,{
+  "ultimos_pedidos": "Sanduiche de Pernil",
+  "nome": "Pedro Silva",
+  "telefone": "38 9 88997788",
+  "endereco": "Rua 3 de paus - 123",
+  "cpf": "35915775901"
+}
+,{
+  "ultimos_pedidos": "X- burguer",
+  "nome": "Samara Souza",
+  "telefone": "38 9 25814738",
+  "endereco": "Rua mil oitavas - 1234",
+  "cpf": "15786231001"
+}
+,{
+  "ultimos_pedidos": "Caldim de Cana",
+  "nome": "Juliana Silveira",
+  "telefone": "38 9 67768558",
+  "endereco": "Rua das Folhas Vermelhas - 201",
+  "cpf": "12045210401"
+}
+,

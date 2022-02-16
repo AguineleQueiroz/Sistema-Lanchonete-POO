@@ -1,0 +1,43 @@
+{
+  "nome": "Pao",
+  "descricao": "Pão de Forma",
+  "quantidade_produto": 270,
+  "id_produto": 111,
+  "valor": 1.5
+}
+,{
+  "nome": "Carne",
+  "descricao": "Carne moida 1kg",
+  "quantidade_produto": 25,
+  "id_produto": 45,
+  "valor": 9.85
+}
+,{
+  "nome": "Hamburguer",
+  "descricao": "Hamburguer Vegetariano 160g",
+  "quantidade_produto": 270,
+  "id_produto": 13,
+  "valor": 2.75
+}
+,{
+  "nome": "Maionese",
+  "descricao": "Maionese Chinesa 250g",
+  "quantidade_produto": 100,
+  "id_produto": 32,
+  "valor": 3.45
+}
+,{
+  "nome": "Copo",
+  "descricao": "Copo de plástico 400ml",
+  "quantidade_produto": 300,
+  "id_produto": 65,
+  "valor": 0.75
+}
+,{
+  "nome": "Guardanapo",
+  "descricao": "Guardanapo 20x35cm Limpex",
+  "quantidade_produto": 2000,
+  "id_produto": 77,
+  "valor": 12.0
+}
+,
