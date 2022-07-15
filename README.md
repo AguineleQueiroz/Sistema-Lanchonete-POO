@@ -33,5 +33,5 @@ Projeto desenvolvido utilizando:
 
 
 ### Autor:
- Aguinele Queiroz
+ Aguinele Queiroz, 
  Cássia Pires
